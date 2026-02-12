@@ -1,0 +1,22 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web App
+streamlit
+
+# Development
+jupyter
+black
+flake8
+pytest
