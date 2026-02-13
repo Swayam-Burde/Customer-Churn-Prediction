@@ -5,6 +5,8 @@ numpy
 # Machine Learning
 scikit-learn
 xgboost
+lightgbm
+catboost
 imbalanced-learn
 
 # Visualization
