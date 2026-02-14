@@ -132,8 +132,12 @@ data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# Models
+# Models & Artifacts
 models/
+artifacts/
+catboost_info/
+logs/
 *.pkl
 *.h5
 *.joblib
+
