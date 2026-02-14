@@ -122,15 +122,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data - Keep raw/processed directories but ignore content if desired, 
-# although generally we might want to keep the structure. 
-# For now, let's ignore large data files but strictly keep the .gitkeep if we had them.
-# The user might want to commit the data if it's small, but usually we ignore detailed data.
-# Let's ignore the CSVs.
-data/raw/*.csv
-data/processed/*.csv
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 
 # Models & Artifacts
 models/
